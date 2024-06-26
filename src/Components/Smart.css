@@ -1,0 +1,47 @@
+
+  .third-section-container{
+    display: flex;
+    /* flex-wrap: wrap; */
+   /* border: 1px solid black; */
+    justify-content: space-evenly;
+  }
+  .third-section-content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: start;
+   /* border: 1px solid black; */
+   width: 40vw;
+   }
+  .third-section-content h1{
+    margin-bottom: 50px;
+    font-size: 3rem;
+    letter-spacing: 4px;
+    font-family: "Audiowide";
+    color: white;
+  }
+  .third-section-image{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid red; */
+    width: 30vw;
+ 
+
+    
+  }
+ .third-section-content p{
+  font-size: 1rem;
+ }
+  .third-section-image img{
+    width: 100%;
+  }
+  .third-section-btn{
+    margin-top: 30px;
+    margin-left: 1px;
+  }
+  #design-five{
+    position: absolute;
+      left: 0px;
+      top: 2700px;
+      width: 200px;
+    }

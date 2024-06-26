@@ -1,0 +1,30 @@
+.card-area-three{
+    margin-top: 50px;
+  }
+      .card-area-three-container{
+        display: flex;
+        flex-direction: column;
+      }
+      .card-area-three-header{
+        /* border: 1px solid black; */
+        text-align: center;
+        /* display: flex; */
+        font-size: 1.8rem;
+      letter-spacing: 2px;
+      /* justify-content: center;
+      align-items: center; */
+      margin-bottom: 30px;
+      
+
+      }
+      .card-area-three-cards{
+        display: flex;
+        gap: 30px;
+       flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+      }
+      .card-area-three-cards img{
+        width: 300px;
+        /* border: 1px solid black; */
+      }
